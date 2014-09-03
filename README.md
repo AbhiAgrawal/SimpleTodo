@@ -16,3 +16,5 @@ Notes:
 Walkthrough of the user stories:
 
 Simple Todo Android Application
+
+![Video Walkthrough](todo.gif)
